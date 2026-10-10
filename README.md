@@ -1,1 +1,1 @@
-# smart-beam-analysis
+# structural health assesment
